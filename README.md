@@ -1,5 +1,7 @@
 # BuzzDB_VectorDB
 
+Currently Still in progress - A lot of bug fixes!!
+
 ## Overview
 
 BuzzDB_VectorDB is a high-performance, scalable vector database implemented in C++. It is designed to support high-dimensional vector operations essential for Large Language Models (LLMs) and AI applications. Leveraging advanced data structures like KD-trees, it provides efficient storage, indexing, and querying capabilities.
