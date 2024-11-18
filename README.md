@@ -35,5 +35,5 @@ BuzzDB_VectorDB is a high-performance, scalable vector database implemented in C
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/BuzzDB_VectorDB.git
+   git clone https://github.com/stevenzhang070302/BuzzDB_VectorDB.git
    cd BuzzDB_VectorDB
